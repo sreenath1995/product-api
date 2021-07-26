@@ -133,7 +133,7 @@ output application/json
   productId: "78965432",
   productName: "Sreenath Reddy",
   productProvider: "Udemy",
-  productDescription: "Complete Mule Developer Course"
+  productDescription: "Complete Mule Developer Course for beginners"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
